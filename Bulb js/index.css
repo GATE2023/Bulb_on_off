@@ -1,0 +1,41 @@
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.bulb{
+    margin-top: 20px;
+    text-align: center;
+}
+.bulb_button{
+    margin-top: 20px;
+    text-align: center;
+}
+.but1{
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    background-color: brown;
+    cursor: pointer;
+    margin-right: 80px;
+}
+.but1:hover{
+    background-color: chocolate;
+}
+.but2{
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    background-color: brown;
+    cursor: pointer;
+}
+.but2:hover{
+    background-color: chocolate;
+}
+.bu1{
+    width: auto;
+}
